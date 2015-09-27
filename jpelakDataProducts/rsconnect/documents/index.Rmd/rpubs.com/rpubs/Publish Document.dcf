@@ -1,0 +1,7 @@
+name: Publish Document
+account: rpubs
+server: rpubs.com
+bundleId:
+        https://api.rpubs.com/api/v1/document/113701/3c2f28efa087462aa148ae3eae5fd94e
+url: http://rpubs.com/jpelak/113701
+when: 1443387266.79391
